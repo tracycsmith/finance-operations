@@ -2,7 +2,7 @@
 
 This file records material financial actions taken in accordance with the documented strategy.
 
-## Transaction Log
+## Summary Ledger
 
 | Date       | Account   | Action | Asset | Amount ($) | Shares  | Status    | Notes |
 |------------|-----------|--------|-------|------------|---------|-----------|-------|
