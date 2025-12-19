@@ -19,7 +19,7 @@ This file records material financial actions taken in accordance with the docume
 - Shares acquired: 23.846
 - Execution method: Dollar-based market order
 - Settlement date: 2025-12-22
-- - Status: ✅ Executed. Pending settlement (scheduled for 2025-12-22)
+- Status: ✅ Executed. Pending settlement (scheduled for 2025-12-22)
 
 Result:
 
