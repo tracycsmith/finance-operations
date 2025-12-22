@@ -26,14 +26,16 @@ Primary goals: zero missed payments, minimal manual intervention, clear audit tr
 
 | Account | Autopay | Pay From (Last 4) | Bank | Draft Date | Status | Next Action |
 |---|---:|---|---|---|---|---|
-| Xfinity Mobile | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
-| State Farm (Auto + Renters) | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
-| Jasper Rent (Bilt) | ⏳ | TBD | Bilt | TBD | ⚠️ Pending | Finish verification |
-| Exxon Mobil (Citi Retail) | ⏳ | 1515 | Fidelity | TBD | ⚠️ Pending | Complete verification |
-| Discover | ✅ | 1515 | Fidelity | 10th | ✅ OK | None |
-| Capital One Quicksilver | ✅ | 1515 | Fidelity | 8th | ✅ OK | None |
+
 | Capital One QuicksilverOne | ⚠️ | TBD | TBD | 14th | ⚠️ Verify | Confirm autopay active |
 | Barclays View | ✅ | 1515 | Fidelity | 8 days before due | ⚠️ Alert | Call support |
+| Xfinity Mobile | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
+| Jasper Rent (Bilt) | ⏳ | TBD | Bilt | TBD | ⚠️ Pending | Finish verification |
+| PNC Visa Card | | TBD | TBD | TBD | ⚠️ Pending | Finish verification |
+| Exxon Mobil (Citi Retail) | ⏳ | 1515 | Fidelity | TBD | ⚠️ Pending | Complete verification |
+| Discover | ✅ | 1515 | Fidelity | 10th | ✅ OK | None |
+| State Farm (Auto + Renters) | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
+| Capital One Quicksilver | ✅ | 1515 | Fidelity | 8th | ✅ OK | None |
 | Amex Platinum | ✅ | 1515 | Fidelity | 15 days post-close | ✅ OK | None |
 | Verizon Fios | ✅ | 1515 | Fidelity | 8th | ✅ OK | None |
 | Dominion Energy | ✅ | 1515 | Fidelity | Due date | ✅ OK | Monitor first bill |
@@ -107,6 +109,14 @@ Primary goals: zero missed payments, minimal manual intervention, clear audit tr
 - Total plan amount displayed elsewhere: $120.25
 
 **Status:** ✅ Reconciled, no action
+
+---
+
+## PNC Visa
+
+- Current balance: $0
+- Autopay: Not active (no balance)
+- Status: Waiting on Micro Verification
 
 ---
 
