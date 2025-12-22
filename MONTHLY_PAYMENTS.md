@@ -26,12 +26,11 @@ Primary goals: zero missed payments, minimal manual intervention, clear audit tr
 
 | Account | Autopay | Pay From (Last 4) | Bank | Draft Date | Status | Next Action |
 |---|---:|---|---|---|---|---|
-
 | Capital One QuicksilverOne | ⚠️ | TBD | TBD | 14th | ⚠️ Verify | Confirm autopay active |
 | Barclays View | ✅ | 1515 | Fidelity | 8 days before due | ⚠️ Alert | Call support |
 | Xfinity Mobile | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
 | Jasper Rent (Bilt) | ⏳ | TBD | Bilt | TBD | ⚠️ Pending | Finish verification |
-| PNC Visa Card | | TBD | TBD | TBD | ⚠️ Pending | Finish verification |
+| PNC Visa Card      |    | TBD | TBD  | TBD | ⚠️ Pending | Finish verification |
 | Exxon Mobil (Citi Retail) | ⏳ | 1515 | Fidelity | TBD | ⚠️ Pending | Complete verification |
 | Discover | ✅ | 1515 | Fidelity | 10th | ✅ OK | None |
 | State Farm (Auto + Renters) | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
