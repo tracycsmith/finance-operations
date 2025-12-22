@@ -28,10 +28,10 @@ Primary goals: zero missed payments, minimal manual intervention, clear audit tr
 |---|---:|---|---|---|---|---|
 | Capital One QuicksilverOne | ⚠️ | TBD | TBD | 14th | ⚠️ Verify | Confirm autopay active |
 | Barclays View | ✅ | 1515 | Fidelity | 8 days before due | ⚠️ Alert | Call support |
-| Xfinity Mobile | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
-| Jasper Rent (Bilt) | ⏳ | TBD | Bilt | TBD | ⚠️ Pending | Finish verification |
-| PNC Visa Card      |    | TBD | TBD  | TBD | ⚠️ Pending | Finish verification |
-| Exxon Mobil (Citi Retail) | ⏳ | 1515 | Fidelity | TBD | ⚠️ Pending | Complete verification |
+| Jasper Rent (Bilt) | ⚠️ | TBD | Bilt | TBD | ⚠️ Pending | Finish verification |
+| PNC Visa Card      | ⚠️ | TBD | TBD  | TBD | ⚠️ Pending | Finish verification |
+| Exxon Mobil (Citi Retail) | ⚠️ | 1515 | Fidelity | TBD | ⚠️ Pending | Complete verification |
+| NASA FCU Visa | ⚠️| TBD | TBD | N/A | ✅ $0 bal | None |
 | Discover | ✅ | 1515 | Fidelity | 10th | ✅ OK | None |
 | State Farm (Auto + Renters) | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
 | Capital One Quicksilver | ✅ | 1515 | Fidelity | 8th | ✅ OK | None |
@@ -40,7 +40,8 @@ Primary goals: zero missed payments, minimal manual intervention, clear audit tr
 | Dominion Energy | ✅ | 1515 | Fidelity | Due date | ✅ OK | Monitor first bill |
 | Synchrony Amazon Store | ✅ | 1515 | Fidelity | 28th | ✅ OK | None |
 | Apple Card | ✅ | 1515 | Fidelity | 23rd | ✅ OK | None |
-| NASA FCU Visa | N/A | N/A | NASA FCU | N/A | ✅ $0 bal | None |
+| Xfinity Mobile | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
+
 
 ---
 
