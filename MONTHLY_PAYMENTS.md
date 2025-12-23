@@ -121,9 +121,32 @@ Primary goals: zero missed payments, minimal manual intervention, clear audit tr
 
 ## PNC Visa
 
-- Current balance: $0
-- Autopay: Not active (no balance)
-- Status: Waiting on Micro Verification
+**Status:** ✅ Reconciled, no action
+
+### Payment Info
+- Autopay: Active: 2nd of month
+- Pay from: Fidelity 1515
+
+### Account Summary
+
+- Account Number: x4251
+- Credit Limit	$20,000.00
+- Purchase APR	17.74%
+
+#### Rewards
+- Rewards Balance: 200 points
+
+#### Cash Advance
+- Cash Advance Balance	$0.00
+- Available for Cash Advance	$5,000.00
+- Cash Advance APR	25.74%
+
+### Payment Information
+- Next Statement Date	01/07/2026
+- Last Statement Balance	$0.00
+- Last Statement Date	08/07/2024
+- Last Payment Amount	$42.46
+- Last Payment Date	07/12/2024
 
 ---
 
